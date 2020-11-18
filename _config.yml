@@ -1,0 +1,74 @@
+# Site wide configuration
+
+title: Rohit Mishra
+locale: en_US
+#url: https://rohit129.github.io/
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:year/:month/:day/:title/
+markdown:    kramdown
+highlighter: rouge
+#paginate: 10
+#paginate_path: "_site/index/blog/page:num/"
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Rohit Mishra
+  avatar: face.jpg
+  bio: Machine Learning, Dialogue Systems, Artificial Intelligence
+  email: rohit129iiita@gmail.com
+  disqus-shortname: Rohit
+  google:
+    plus: #username
+    analytics: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: rohit129
+  google_scholar: dUALsvsAAAAJ
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  linkedin: rohit-mishra-216438a4/
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -1,13 +1,13 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
-excerpt: "The personal website of Pawel Budzianowski."
+excerpt: "The personal website of Rohit Mishra."
 tags: [Mishra,Rohit, Rohit, Mishra Rohit, Rohit Mishra, rohitmishra, rohit mishra,  home page]
 share: false
 image:
   credit: "@rohit"
 ---
 
-## Welcome 
+<!-- ## Welcome  -->
 
 I am working on Dialogue System as a research scholar in Human-Computer-Interaction department of Indian Institute of Information Technology Allahabad (IIITA), India under [Prof. U.S. Tiwary](https://www.researchgate.net/profile/Uma_Shanker_Tiwary) and  also a member of [SILP](https://silp.iiita.ac.in/) (Speech, Image and Language Processing) Lab. 
 

@@ -23,10 +23,10 @@ comments: false
 
 
 ## Collaborated Papers
-3.	[Structural analysis of Hindi phonetics and a method for extraction of phonetically rich sentences from a very large Hindi text corpus](https://ieeexplore.ieee.org/abstract/document/7919009), 2016 Conference of The Oriental Chapter of International Committee for Coordination and Standardization of Speech Databases and Assessment Techniques (O-COCOSDA)
+3.	[RNN Based Language Generation Models for a Hindi Dialogue System](https://link.springer.com/chapter/10.1007/978-3-030-44689-5_12),11th International Conference Intelligent Human Computer Interaction (IHCI 2019), Springer, Cham. 
 <br/>
 <br/>
-Shrikant Malviya, <b>Rohit Mishra</b>, Uma Shanker Tiwary
+Sumit Singh, Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma Shanker Tiwary
 <br/>
 <br/>
 2.	[Sentiment analysis: An empirical comparative study of various machine learning approaches](https://www.aclweb.org/anthology/W17-7515.pdf),14th International Conference on Natural Language Processing (ICON-2017)
@@ -35,10 +35,10 @@ Shrikant Malviya, <b>Rohit Mishra</b>, Uma Shanker Tiwary
 Sumit Singh, Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma Shanker Tiwary
 <br/>
 <br/>
-1.	[RNN Based Language Generation Models for a Hindi Dialogue System](https://link.springer.com/chapter/10.1007/978-3-030-44689-5_12),11th International Conference Intelligent Human Computer Interaction (IHCI 2019), Springer, Cham. 
+1.	[Structural analysis of Hindi phonetics and a method for extraction of phonetically rich sentences from a very large Hindi text corpus](https://ieeexplore.ieee.org/abstract/document/7919009), 2016 Conference of The Oriental Chapter of International Committee for Coordination and Standardization of Speech Databases and Assessment Techniques (O-COCOSDA)
 <br/>
 <br/>
-Sumit Singh, Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma Shanker Tiwary
+Shrikant Malviya, <b>Rohit Mishra</b>, Uma Shanker Tiwary
 <br/>
 <br/>
 

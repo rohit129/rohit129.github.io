@@ -23,4 +23,4 @@ Department of Information Technology
 
 SILP Lab (CC-2)
 <br/>
-Email [rohit129iiita] at [gmail.com] -->
+Email [rohit129iiita] at [gmail.com] 

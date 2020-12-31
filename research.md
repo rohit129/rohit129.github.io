@@ -32,7 +32,7 @@ Sumit Singh, Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma S
 2.	[Sentiment analysis: An empirical comparative study of various machine learning approaches](https://www.aclweb.org/anthology/W17-7515.pdf),14th International Conference on Natural Language Processing (ICON-2017)
 <br/>
 <br/>
-Sumit Singh, Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma Shanker Tiwary
+Swapnil Jain,, Shrikant Malviya, <b>Rohit Mishra</b>, Uma Shanker Tiwary
 <br/>
 <br/>
 1.	[Structural analysis of Hindi phonetics and a method for extraction of phonetically rich sentences from a very large Hindi text corpus](https://ieeexplore.ieee.org/abstract/document/7919009), 2016 Conference of The Oriental Chapter of International Committee for Coordination and Standardization of Speech Databases and Assessment Techniques (O-COCOSDA)

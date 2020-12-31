@@ -6,15 +6,8 @@ modified:  2020-11-18T19:57:00+05:30
 comments: false
 ---
 
-Updating soon..
-<!--
-## Academic achievements
-## Honours and Awards
-## Talks
-## Education
-## Teaching
-## Contact
--->
+
+### Will be updated soon..
 
 Department of Information Technology
 <br/>Indian Institute of Information Technology Allahabad

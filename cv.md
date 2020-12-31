@@ -26,4 +26,4 @@ Department of Information Technology
 
 SILP Lab (CC-2)
 <br/>
-Email [rohit129] at [iiita.ac.in] -->
+Email [rohit129iiita] at [gmail.com] -->

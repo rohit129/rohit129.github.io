@@ -7,6 +7,15 @@ share: false
 comments: false
 ---
 
+## Transactions/Journal Publications
+1.  [HDRS: Hindi Dialogue Restaurant Search Corpus for Dialogue State Tracking in Task-Oriented Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9376978), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021.
+<br/>
+<br/>
+Shrikant Malviya, <b>Rohit Mishra</b>, Santosh Kumar Barnwal, Uma Shanker Tiwary 
+<br/>
+Both Shrikant Malviya and <b>Rohit Mishra</b> have equally contributed
+<br/>
+
 ## Conference Publications
 2.	[Computing with Words Through Interval Type-2 Fuzzy Sets for Decision Making Environment](https://link.springer.com/chapter/10.1007/978-3-030-44689-5_11),11th International Conference Intelligent Human Computer Interaction (IHCI 2019), Springer, Cham. 
 <br/>
@@ -23,6 +32,12 @@ comments: false
 
 
 ## Collaborated Papers
+4.  [Detection of Semantically Equivalent Question Pairs](https://link.springer.com/chapter/10.1007/978-3-030-68449-5_2),12th International Conference Intelligent Human Computer Interaction (IHCI 2020), Springer, Cham.   <em>[Best Paper Award]</em> 
+<br/>
+<br/>
+Reetu Kumari, <b>Rohit Mishra</b>, Shrikant Malviya, Uma Shanker Tiwary   
+<br/>
+<br/> 
 3.	[RNN Based Language Generation Models for a Hindi Dialogue System](https://link.springer.com/chapter/10.1007/978-3-030-44689-5_12),11th International Conference Intelligent Human Computer Interaction (IHCI 2019), Springer, Cham. 
 <br/>
 <br/>

@@ -16,7 +16,7 @@ I am working on Dialogue System as a research scholar in Human-Computer-Interact
 My area is more focussed toward the <bf>natural language understanding and state tracking in the dialogue.  I am enthusiastic to work in the field of artificial intelligence, machine learning, applied mathematics and statistics.
  
 
-Feel free to contact me: [rohit129iiita] at [gmail.com]
+Feel free to contact me: [rohit129.iiita] at [gmail.com] , [rohitpro129] at [gmail.com]
 
 <!--  I'm working on conversational AI in production and research at [PolyAI](https://www.polyai.com/). I am passionate about everything that is related to applied mathematics, statistics, machine learning and artificial intelligence.
 

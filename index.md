@@ -11,10 +11,26 @@ image:
 
 ## Welcome 
 
-I am working on Dialogue System as a research scholar in Human-Computer-Interaction department of Indian Institute of Information Technology Allahabad (IIITA), India under [Prof. U.S. Tiwary](https://www.researchgate.net/profile/Uma_Shanker_Tiwary) and  also a member of [SILP](https://silp.iiita.ac.in/) (Speech, Image and Language Processing) Lab. 
+I am currently an AI scientist at Uniphore Software Systems working on conversational data building the latest Natural Processing models as per the organisations needs. Before joining, I had worked on Dialogue System as a research scholar in Human-Computer-Interaction department of Indian Institute of Information Technology Allahabad (IIITA), India under [Prof. U.S. Tiwary](https://www.researchgate.net/profile/Uma_Shanker_Tiwary) and  also a member of [SILP](https://silp.iiita.ac.in/) (Speech, Image and Language Processing) Lab. 
 
-My area is more focussed toward the <bf>natural language understanding and state tracking in the dialogue.  I am enthusiastic to work in the field of artificial intelligence, machine learning, applied mathematics and statistics.
- 
+My research area and interest lies in:
+
+1) Dialogue state tracking in MultiDomain language. 
+
+2) Use of Fuzzy set in 'Natural Language Understanding' of dialogue systems.
+
+3) Development of robust conversational agent for specific domain.
+   
+4) Analyzing the word vector and searching for a better intermediate representation in language understanding phase of Dialogue System.
+
+5) Deep Learning Model in Natural language Understanding (like Transformers Model,LLMs, RNN,LSTM,CNN)
+
+6) Generative AI and Prompt Engineering
+
+7) Development of Ontologies and their applications
+
+8) Information Retrieval
+
 
 Feel free to contact me: [rohit129.iiita] at [gmail.com] , [rohitpro129] at [gmail.com]
 
